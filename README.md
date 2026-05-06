@@ -16,14 +16,8 @@ Project ini merupakan aplikasi inventaris sarana dan prasarana Laboratorium RPL 
 
 # 🧩 Entity Relationship Diagram (ERD)
 
-> Tambahkan foto ERD di bawah ini
+<img width="459" height="319" alt="image" src="https://github.com/user-attachments/assets/241b1114-f33e-4163-b38c-ba1475c5f17b" />
 
-```md
-<img width="459" height="319" alt="Screenshot 2026-05-06 145511" src="https://github.com/user-attachments/assets/1e2a50d0-fa48-442c-9e48-b6e550b2d636" />
-
-```
-
----
 
 # 🔥 Trigger Database
 
